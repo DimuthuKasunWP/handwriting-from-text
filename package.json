@@ -1,0 +1,27 @@
+{
+  "name": "text-to-handwriting",
+  "version": "1.0.0-alpha.2",
+  "description": "Hey everyone! text-to-handwriting is a tool that lets you generate image that looks like handwriting from text.",
+  "main": "js/app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DimuthuKasunWP/text-to-handwriting.git"
+  },
+  "keywords": [],
+  "author": "Dimuthu Kasun <kasunwpdimuthu@gmail.com> ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DimuthuKasunWP/text-to-handwriting/issues"
+  },
+  "homepage": "https://github.com/DimuthuKasunWP/text-to-handwriting#readme",
+  "devDependencies": {
+    "serve": "^11.3.0"
+  }
+}
