@@ -12,7 +12,7 @@
 
 ## 🤗 Contributing
 
-Checkout [Contribution Guide](CONTRIBUTING.md) for local setup and contribution guide.
+ [Contribution Guide](CONTRIBUTING.md) for local setup and contribution guide.
 
 
 ---
