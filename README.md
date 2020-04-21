@@ -1,5 +1,5 @@
 <p align="center">
-<br/><b><a href="https://DimuthuKasunWP.github.io/handwriting-from-text/">https://DimuthuKasunWP.github.io/handwriting-from-text/</a></b><br/><br/>
+<br/><b><a href="https://DimuthuKasunWP.github.io/Handwriting/">https://DimuthuKasunWP.github.io/Handwriting/</a></b><br/><br/>
 
 </p>
 
